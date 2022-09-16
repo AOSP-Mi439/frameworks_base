@@ -123,7 +123,6 @@ public class QuickStatusBarHeader extends FrameLayout implements TunerService.Tu
     private List<String> mRssiIgnoredSlots = List.of();
     private boolean mIsSingleCarrier;
 
-    private boolean mHasCenterCutout;
     private boolean mConfigShowBatteryEstimate;
 
     private boolean mUseCombinedQSHeader;
